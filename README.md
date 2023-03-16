@@ -1,1 +1,1 @@
-# FedGranger-Pytorch
+# Fed-Pytorch
